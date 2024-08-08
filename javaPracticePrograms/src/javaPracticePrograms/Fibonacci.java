@@ -10,8 +10,8 @@ public class Fibonacci {
 			System.out.println("N2 is large no" + n2);
 			return n2;
 		}else {
-			System.out.println("N3 is large = " + n3);
-			return n3;
+			System.out.println("N3 is large = " + n3); 
+			return n3; 
 		}
 	}
 	public static char isVowel(char c) {
